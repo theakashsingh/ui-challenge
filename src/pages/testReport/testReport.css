@@ -1,0 +1,38 @@
+.test_report{
+    width: 100%;
+    min-height: 100vh;
+    padding:20px ;
+}
+
+h3{
+    color: #6558f5;
+    margin-bottom: 30px;
+}
+
+.test_report_list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2f5f7;
+    margin-bottom: 10px;
+    padding: 15px 10px;
+    cursor: pointer;
+}
+
+.test_report_number_time{
+    color: #83919e;
+}
+
+.test_report_status{
+    flex-basis: 20%;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+.test_report_status span:first-child{
+    color: #207868;
+}
+.test_report_status span:last-child{
+    color: #d3455b;
+}
+

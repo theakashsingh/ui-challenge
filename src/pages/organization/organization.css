@@ -1,0 +1,36 @@
+*,::after,::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.organization_picker{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.organization{
+    width: 50%;
+    border: 3px solid #788896;
+    background-color: #ced8e0;
+    color: #ffffff;
+    display: flex;
+    gap: 5px;
+    padding: 16px 32px;
+    cursor: pointer;
+}
+
+.organization .icon{
+    flex-basis: 25%;
+}
+
+.organization .name{
+    flex-basis: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

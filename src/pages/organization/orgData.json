@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Wordpedia",
+        "owner_email": "amcglaud0@weibo.com",
+        "owner_name": "Abra McGlaud",
+        "owner_picture": "http://dummyimage.com/192x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 2,
+        "name": "Meedoo",
+        "owner_email": "jgringley1@instagram.com",
+        "owner_name": "Janey Gringley",
+        "owner_picture": "http://dummyimage.com/234x100.png/dddddd/000000"
+    }
+]
